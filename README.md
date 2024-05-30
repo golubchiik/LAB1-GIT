@@ -12,4 +12,4 @@ https://github.com/vampy/Makefile
 https://gist.github.com/thaim/7895785
 ```
 
-The background color is `#fafaff` for light mode and `#131472` for dark mode.
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
