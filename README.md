@@ -1,4 +1,4 @@
-# [A first-level heading](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
+# (https://www.gnu.org/prep/standards/html_node/Writing-C.html)
 ## [A second-level heading](https://github.com/skuhl/sys-prog-examples/tree/master/linking-types-example)
 ### [A third-level heading](https://gist.github.com/tailriver/30bf0c943325330b7b6a)
 
